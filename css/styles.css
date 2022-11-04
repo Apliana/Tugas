@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cookie&display=swap");
+
+.navbar {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+
+.navbar-brand {
+  font-family: "Satisfy", cursive;
+}
+
+#home {
+  padding-top: 70px;
+  background-color: #faf7f0;
+  text-align: center;
+  color: black;
+}
+
+#home img {
+  border-radius: 60%;
+  width: 60%;
+  justify-items: center;
+}
+
+.bg-new {
+  background-color: #063970;
+}
+
+.image-sea {
+  height: 720px;
+  object-fit: cover;
+}
+
+.title {
+  font-family: "Cookie", cursive;
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.title2 {
+  font-family: "Cookie", cursive;
+  text-align: center;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.card-img-top {
+  padding-top: 20px;
+}
+
+#experiences {
+  padding: 30px;
+}
+
+#education {
+  padding: 30px;
+}
+
+#skills {
+  padding: 30px;
+}
+
+#interest {
+  padding: 30px;
+}
+
+#awards {
+  padding: 30px;
+  background-color: #00a7f1;
+}
+
+footer {
+  color: white;
+  background-color: #00abb3;
+  padding: 10px;
+  text-align: center;
+}
+
+footer a {
+  color: white;
+}
